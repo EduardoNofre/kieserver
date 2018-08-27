@@ -1,0 +1,4 @@
+server:
+    servlet:
+      context-parameters:
+        resteasy.servlet.mapping.prefix: /services/rest
